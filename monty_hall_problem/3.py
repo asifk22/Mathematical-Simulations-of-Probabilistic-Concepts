@@ -66,3 +66,4 @@ if __name__ == "__main__":
         print('Ratio of probability for switching to sticking: {:.2f}'.format(probability_win_switch / probability_win_stick))
 
         plot_surface()
+#
